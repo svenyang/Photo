@@ -1,6 +1,0 @@
-baseURL: https://svenyang.github.io/photo
-languageCode: zh-CN
-title: 园oo
-theme: hugo-theme-gallery/v4
-menu:
-    main: []
