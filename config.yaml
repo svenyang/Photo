@@ -1,0 +1,5 @@
+baseURL: https://svenyang.github.io/photo
+languageCode: zh-CN
+params:
+  showDate: 'Yes'
+title: 园oo
