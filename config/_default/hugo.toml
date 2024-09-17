@@ -10,7 +10,7 @@ title = "Gallery"
 [params]
   defaultTheme = "dark"
   description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  title = "oo"
   [params.author]
     email = "oo@example.com"
     name = "oo"
@@ -27,19 +27,3 @@ title = "Gallery"
     disableDate = false
     disableLatLong = true
     includeFields = "ImageDescription|Orientation"
-
-[module]
-  [module.hugoVersion]
-    min = "0.121.2"
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
-
-[menu]
-  [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
-
-[services]
-  [services.rss]
-    limit = 100
