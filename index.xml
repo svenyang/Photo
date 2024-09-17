@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oo</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on oo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Sep 2024 14:12:44 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 14:12:44 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>内蒙古</title>
-      <link>//localhost:1313/neimenggu/</link>
+      <link>/neimenggu/</link>
       <pubDate>Mon, 16 Sep 2024 14:12:44 +0100</pubDate>
-      <guid>//localhost:1313/neimenggu/</guid><description>内蒙古自驾</description></item>
+      <guid>/neimenggu/</guid><description>内蒙古自驾</description></item>
   </channel>
 </rss>
