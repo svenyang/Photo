@@ -2,6 +2,11 @@ aseURL = 'https://svenyang.github.io/photo'
 languageCode = 'zh-CN'
 title = 'oo'
 
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
 [menu]
   [main]
     name = "test"
