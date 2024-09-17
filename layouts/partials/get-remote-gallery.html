@@ -1,0 +1,27 @@
+{{ $remote_gallery := "" }}
+{{ range $jsonfile := .Resources.Match "*.json" }}
+  {{ $data := dict }}
+  {{ $imageCount := 0 }}
+  {{ $albumCount := 0 }}
+  {{ $pageDir := "" }}
+  {{ $coverImageUrl := "" }}
+
+  {{ $data = $jsonfile | transform.Unmarshal }}
+  {{ $imageCount = len $data.images }}
+  {{ $pageDir = path.Dir $jsonfile.RelPermalink }}
+  {{ range $image := $data.images }}
+    {{ if .feature }}
+      {{ $coverImageUrl = .thumbnail_url }}
+    {{ end }}
+  {{ end }}
+
+  {{ $remote_gallery = dict
+    "Title" $data.title
+    "albumCount" $albumCount
+    "imageCount" $imageCount
+    "page" $pageDir
+    "coverImageUrl" $coverImageUrl
+  }}
+{{ end }}
+
+{{ return $remote_gallery }}
