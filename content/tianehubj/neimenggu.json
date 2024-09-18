@@ -1,0 +1,43 @@
+{
+    "title": "天鹅湖-北京",
+    "images":[
+        {
+            "name": "aaa",
+            "url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG26.jpg?x-oss-process=image/resize,w_1600,m_lfit/quality,q_90",
+            "thumbnail_url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG26.jpg?processx-oss-=image/resize,w_600,m_lfit/quality,q_90",
+            "width": 1080,
+            "height": 1440,
+            "feature": true
+        },
+        {
+            "url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG27.jpg?x-oss-process=image/resize,w_1600,m_lfit/quality,q_90",
+            "thumbnail_url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG27.jpg?processx-oss-=image/resize,w_600,m_lfit/quality,q_90",
+            "width": 1080,
+            "height": 1440
+        },
+        {
+            "url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG28.jpg?x-oss-process=image/resize,w_1600,m_lfit/quality,q_90",
+            "thumbnail_url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG28.jpg?processx-oss-=image/resize,w_600,m_lfit/quality,q_90",
+            "width": 1080,
+            "height": 1440
+        },
+        {
+            "url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG29.jpg?x-oss-process=image/resize,w_1600,m_lfit/quality,q_90",
+            "thumbnail_url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG29.jpg?processx-oss-=image/resize,w_600,m_lfit/quality,q_90",
+            "width": 692,
+            "height": 1050
+        },
+        {
+            "url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG30.jpg?x-oss-process=image/resize,w_1600,m_lfit/quality,q_90",
+            "thumbnail_url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG30.jpg?processx-oss-=image/resize,w_600,m_lfit/quality,q_90",
+            "width": 1702,
+            "height": 1276
+        },
+        {
+            "url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG31.jpg?x-oss-process=image/resize,w_1600,m_lfit/quality,q_90",
+            "thumbnail_url": "https://yuan-world.oss-cn-beijing.aliyuncs.com/2024-06-01/WechatIMG31.jpg?processx-oss-=image/resize,w_600,m_lfit/quality,q_90",
+            "width": 1280,
+            "height": 1707
+        }
+    ]
+}
