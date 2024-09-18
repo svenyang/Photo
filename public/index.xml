@@ -2,15 +2,20 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oo</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on oo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Sep 2024 14:12:44 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 14:12:44 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>内蒙古</title>
-      <link>/neimenggu/</link>
+      <link>//localhost:1313/neimenggu/</link>
       <pubDate>Mon, 16 Sep 2024 14:12:44 +0100</pubDate>
-      <guid>/neimenggu/</guid><description>内蒙古自驾</description></item>
+      <guid>//localhost:1313/neimenggu/</guid><description>内蒙古自驾</description></item>
+    <item>
+      <title>天鹅湖-北京</title>
+      <link>//localhost:1313/tianehubj/</link>
+      <pubDate>Sat, 01 Jun 2024 14:12:44 +0100</pubDate>
+      <guid>//localhost:1313/tianehubj/</guid><description>北京团建</description></item>
   </channel>
 </rss>
